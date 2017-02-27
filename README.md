@@ -1,11 +1,11 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!DOCTYPE>
 <html>
   <head>
     <title>组件</title>
   </head>
   <body>
   <div>
-    <font>展示我的组件</font>
+    <font style="color:#a9a9a9">展示我的组件</font>
   </div>
   </body>
 </html>
